@@ -1,0 +1,28 @@
+"filename", "language", "JavaScript", "JavaScript JSX", "CSS", "XML", "comment", "blank", "total"
+"c:\Users\juand\Documents\RVCC\Spring_2025\CapstoneSpring2025\ReactProjects\website01\public\assets\images\apple.svg", "XML", 0, 0, 0, -13, 0, 0, -13
+"c:\Users\juand\Documents\RVCC\Spring_2025\CapstoneSpring2025\ReactProjects\website01\public\assets\images\bag.svg", "XML", 0, 0, 0, -14, 0, 0, -14
+"c:\Users\juand\Documents\RVCC\Spring_2025\CapstoneSpring2025\ReactProjects\website01\public\assets\images\favicon.svg", "XML", 0, 0, 0, -3349, 0, -1, -3350
+"c:\Users\juand\Documents\RVCC\Spring_2025\CapstoneSpring2025\ReactProjects\website01\public\assets\images\pause.svg", "XML", 0, 0, 0, -1, 0, 0, -1
+"c:\Users\juand\Documents\RVCC\Spring_2025\CapstoneSpring2025\ReactProjects\website01\public\assets\images\play.svg", "XML", 0, 0, 0, -1, 0, 0, -1
+"c:\Users\juand\Documents\RVCC\Spring_2025\CapstoneSpring2025\ReactProjects\website01\public\assets\images\replay.svg", "XML", 0, 0, 0, -15, 0, 0, -15
+"c:\Users\juand\Documents\RVCC\Spring_2025\CapstoneSpring2025\ReactProjects\website01\public\assets\images\right.svg", "XML", 0, 0, 0, -13, 0, 0, -13
+"c:\Users\juand\Documents\RVCC\Spring_2025\CapstoneSpring2025\ReactProjects\website01\public\assets\images\search.svg", "XML", 0, 0, 0, -14, 0, 0, -14
+"c:\Users\juand\Documents\RVCC\Spring_2025\CapstoneSpring2025\ReactProjects\website01\public\assets\images\watch.svg", "XML", 0, 0, 0, -13, 0, 0, -13
+"c:\Users\juand\Documents\RVCC\Spring_2025\CapstoneSpring2025\ReactProjects\website01\public\assets\react.svg", "XML", 0, 0, 0, -1, 0, 0, -1
+"c:\Users\juand\Documents\RVCC\Spring_2025\CapstoneSpring2025\ReactProjects\website01\public\models\vite.svg", "XML", 0, 0, 0, -14, 0, 0, -14
+"c:\Users\juand\Documents\RVCC\Spring_2025\CapstoneSpring2025\ReactProjects\website01\src\App.jsx", "JavaScript JSX", 0, 42, 0, 0, 0, 5, 47
+"c:\Users\juand\Documents\RVCC\Spring_2025\CapstoneSpring2025\ReactProjects\website01\src\components\Footer.jsx", "JavaScript JSX", 0, 32, 0, 0, 9, 4, 45
+"c:\Users\juand\Documents\RVCC\Spring_2025\CapstoneSpring2025\ReactProjects\website01\src\components\Hero.jsx", "JavaScript JSX", 0, 58, 0, 0, 39, 10, 107
+"c:\Users\juand\Documents\RVCC\Spring_2025\CapstoneSpring2025\ReactProjects\website01\src\components\Highlights.jsx", "JavaScript JSX", 0, 22, 0, 0, 45, 6, 73
+"c:\Users\juand\Documents\RVCC\Spring_2025\CapstoneSpring2025\ReactProjects\website01\src\components\Navbar.jsx", "JavaScript JSX", 0, 45, 0, 0, 15, 6, 66
+"c:\Users\juand\Documents\RVCC\Spring_2025\CapstoneSpring2025\ReactProjects\website01\src\components\VideoCarousel.jsx", "JavaScript JSX", 0, 187, 0, 0, 21, 25, 233
+"c:\Users\juand\Documents\RVCC\Spring_2025\CapstoneSpring2025\ReactProjects\website01\src\constants\index.js", "JavaScript", 80, 0, 0, 0, 1, 6, 87
+"c:\Users\juand\Documents\RVCC\Spring_2025\CapstoneSpring2025\ReactProjects\website01\src\index.css", "CSS", 0, 0, 143, 0, 11, 34, 188
+"c:\Users\juand\Documents\RVCC\Spring_2025\CapstoneSpring2025\ReactProjects\website01\src\main.jsx", "JavaScript JSX", 0, 12, 0, 0, 0, 2, 14
+"c:\Users\juand\Documents\RVCC\Spring_2025\CapstoneSpring2025\ReactProjects\website01\src\pages\About.jsx", "JavaScript JSX", 0, 50, 0, 0, 0, 2, 52
+"c:\Users\juand\Documents\RVCC\Spring_2025\CapstoneSpring2025\ReactProjects\website01\src\pages\Contact.jsx", "JavaScript JSX", 0, 105, 0, 0, 3, 8, 116
+"c:\Users\juand\Documents\RVCC\Spring_2025\CapstoneSpring2025\ReactProjects\website01\src\pages\JDProductionz.jsx", "JavaScript JSX", 0, 301, 0, 0, 22, 37, 360
+"c:\Users\juand\Documents\RVCC\Spring_2025\CapstoneSpring2025\ReactProjects\website01\src\pages\PFT.jsx", "JavaScript JSX", 0, 219, 0, 0, 16, 21, 256
+"c:\Users\juand\Documents\RVCC\Spring_2025\CapstoneSpring2025\ReactProjects\website01\src\pages\Support.jsx", "JavaScript JSX", 0, 104, 0, 0, 4, 6, 114
+"c:\Users\juand\Documents\RVCC\Spring_2025\CapstoneSpring2025\ReactProjects\website01\src\utils\index.js", "JavaScript", 56, 0, 0, 0, 1, 10, 67
+"Total", "-", 136, 1177, 143, -3448, 187, 181, -1624

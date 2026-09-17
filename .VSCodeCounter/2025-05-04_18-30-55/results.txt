@@ -1,0 +1,46 @@
+Date : 2025-05-04 18:30:55
+Directory : c:\Users\juand\Documents\RVCC\Spring_2025\CapstoneSpring2025\ReactProjects\website01\src
+Total : 15 files,  1456 codes, 187 comments, 182 blanks, all 1825 lines
+
+Languages
++----------------+------------+------------+------------+------------+------------+
+| language       | files      | code       | comment    | blank      | total      |
++----------------+------------+------------+------------+------------+------------+
+| JavaScript JSX |         12 |      1,177 |        174 |        132 |      1,483 |
+| CSS            |          1 |        143 |         11 |         34 |        188 |
+| JavaScript     |          2 |        136 |          2 |         16 |        154 |
++----------------+------------+------------+------------+------------+------------+
+
+Directories
++-----------------------------------------------------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+| path                                                                                                                  | files      | code       | comment    | blank      | total      |
++-----------------------------------------------------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+| .                                                                                                                     |         15 |      1,456 |        187 |        182 |      1,825 |
+| . (Files)                                                                                                             |          3 |        197 |         11 |         41 |        249 |
+| components                                                                                                            |          5 |        344 |        129 |         51 |        524 |
+| constants                                                                                                             |          1 |         80 |          1 |          6 |         87 |
+| pages                                                                                                                 |          5 |        779 |         45 |         74 |        898 |
+| utils                                                                                                                 |          1 |         56 |          1 |         10 |         67 |
++-----------------------------------------------------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+
+Files
++-----------------------------------------------------------------------------------------------------------------------+----------------+------------+------------+------------+------------+
+| filename                                                                                                              | language       | code       | comment    | blank      | total      |
++-----------------------------------------------------------------------------------------------------------------------+----------------+------------+------------+------------+------------+
+| c:\Users\juand\Documents\RVCC\Spring_2025\CapstoneSpring2025\ReactProjects\website01\src\App.jsx                      | JavaScript JSX |         42 |          0 |          5 |         47 |
+| c:\Users\juand\Documents\RVCC\Spring_2025\CapstoneSpring2025\ReactProjects\website01\src\components\Footer.jsx        | JavaScript JSX |         32 |          9 |          4 |         45 |
+| c:\Users\juand\Documents\RVCC\Spring_2025\CapstoneSpring2025\ReactProjects\website01\src\components\Hero.jsx          | JavaScript JSX |         58 |         39 |         10 |        107 |
+| c:\Users\juand\Documents\RVCC\Spring_2025\CapstoneSpring2025\ReactProjects\website01\src\components\Highlights.jsx    | JavaScript JSX |         22 |         45 |          6 |         73 |
+| c:\Users\juand\Documents\RVCC\Spring_2025\CapstoneSpring2025\ReactProjects\website01\src\components\Navbar.jsx        | JavaScript JSX |         45 |         15 |          6 |         66 |
+| c:\Users\juand\Documents\RVCC\Spring_2025\CapstoneSpring2025\ReactProjects\website01\src\components\VideoCarousel.jsx | JavaScript JSX |        187 |         21 |         25 |        233 |
+| c:\Users\juand\Documents\RVCC\Spring_2025\CapstoneSpring2025\ReactProjects\website01\src\constants\index.js           | JavaScript     |         80 |          1 |          6 |         87 |
+| c:\Users\juand\Documents\RVCC\Spring_2025\CapstoneSpring2025\ReactProjects\website01\src\index.css                    | CSS            |        143 |         11 |         34 |        188 |
+| c:\Users\juand\Documents\RVCC\Spring_2025\CapstoneSpring2025\ReactProjects\website01\src\main.jsx                     | JavaScript JSX |         12 |          0 |          2 |         14 |
+| c:\Users\juand\Documents\RVCC\Spring_2025\CapstoneSpring2025\ReactProjects\website01\src\pages\About.jsx              | JavaScript JSX |         50 |          0 |          2 |         52 |
+| c:\Users\juand\Documents\RVCC\Spring_2025\CapstoneSpring2025\ReactProjects\website01\src\pages\Contact.jsx            | JavaScript JSX |        105 |          3 |          8 |        116 |
+| c:\Users\juand\Documents\RVCC\Spring_2025\CapstoneSpring2025\ReactProjects\website01\src\pages\JDProductionz.jsx      | JavaScript JSX |        301 |         22 |         37 |        360 |
+| c:\Users\juand\Documents\RVCC\Spring_2025\CapstoneSpring2025\ReactProjects\website01\src\pages\PFT.jsx                | JavaScript JSX |        219 |         16 |         21 |        256 |
+| c:\Users\juand\Documents\RVCC\Spring_2025\CapstoneSpring2025\ReactProjects\website01\src\pages\Support.jsx            | JavaScript JSX |        104 |          4 |          6 |        114 |
+| c:\Users\juand\Documents\RVCC\Spring_2025\CapstoneSpring2025\ReactProjects\website01\src\utils\index.js               | JavaScript     |         56 |          1 |         10 |         67 |
+| Total                                                                                                                 |                |      1,456 |        187 |        182 |      1,825 |
++-----------------------------------------------------------------------------------------------------------------------+----------------+------------+------------+------------+------------+

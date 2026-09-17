@@ -1,0 +1,64 @@
+Date : 2025-05-04 18:30:24
+Directory : c:\Users\juand\Documents\RVCC\Spring_2025\CapstoneSpring2025\ReactProjects\website01\public
+Total : 26 files,  1992 codes, -187 comments, -181 blanks, all 1624 lines
+
+Languages
++----------------+------------+------------+------------+------------+------------+
+| language       | files      | code       | comment    | blank      | total      |
++----------------+------------+------------+------------+------------+------------+
+| XML            |         11 |      3,448 |          0 |          1 |      3,449 |
+| JavaScript     |          2 |       -136 |         -2 |        -16 |       -154 |
+| CSS            |          1 |       -143 |        -11 |        -34 |       -188 |
+| JavaScript JSX |         12 |     -1,177 |       -174 |       -132 |     -1,483 |
++----------------+------------+------------+------------+------------+------------+
+
+Directories
++-----------------------------------------------------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+| path                                                                                                                  | files      | code       | comment    | blank      | total      |
++-----------------------------------------------------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+| .                                                                                                                     |         26 |      1,992 |       -187 |       -181 |      1,624 |
+| ..                                                                                                                    |         15 |     -1,456 |       -187 |       -182 |     -1,825 |
+| ..\src                                                                                                                |         15 |     -1,456 |       -187 |       -182 |     -1,825 |
+| ..\src (Files)                                                                                                        |          3 |       -197 |        -11 |        -41 |       -249 |
+| ..\src\components                                                                                                     |          5 |       -344 |       -129 |        -51 |       -524 |
+| ..\src\constants                                                                                                      |          1 |        -80 |         -1 |         -6 |        -87 |
+| ..\src\pages                                                                                                          |          5 |       -779 |        -45 |        -74 |       -898 |
+| ..\src\utils                                                                                                          |          1 |        -56 |         -1 |        -10 |        -67 |
+| assets                                                                                                                |         10 |      3,434 |          0 |          1 |      3,435 |
+| assets (Files)                                                                                                        |          1 |          1 |          0 |          0 |          1 |
+| assets\images                                                                                                         |          9 |      3,433 |          0 |          1 |      3,434 |
+| models                                                                                                                |          1 |         14 |          0 |          0 |         14 |
++-----------------------------------------------------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+
+Files
++-----------------------------------------------------------------------------------------------------------------------+----------------+------------+------------+------------+------------+
+| filename                                                                                                              | language       | code       | comment    | blank      | total      |
++-----------------------------------------------------------------------------------------------------------------------+----------------+------------+------------+------------+------------+
+| c:\Users\juand\Documents\RVCC\Spring_2025\CapstoneSpring2025\ReactProjects\website01\public\assets\images\apple.svg   | XML            |         13 |          0 |          0 |         13 |
+| c:\Users\juand\Documents\RVCC\Spring_2025\CapstoneSpring2025\ReactProjects\website01\public\assets\images\bag.svg     | XML            |         14 |          0 |          0 |         14 |
+| c:\Users\juand\Documents\RVCC\Spring_2025\CapstoneSpring2025\ReactProjects\website01\public\assets\images\favicon.svg | XML            |      3,349 |          0 |          1 |      3,350 |
+| c:\Users\juand\Documents\RVCC\Spring_2025\CapstoneSpring2025\ReactProjects\website01\public\assets\images\pause.svg   | XML            |          1 |          0 |          0 |          1 |
+| c:\Users\juand\Documents\RVCC\Spring_2025\CapstoneSpring2025\ReactProjects\website01\public\assets\images\play.svg    | XML            |          1 |          0 |          0 |          1 |
+| c:\Users\juand\Documents\RVCC\Spring_2025\CapstoneSpring2025\ReactProjects\website01\public\assets\images\replay.svg  | XML            |         15 |          0 |          0 |         15 |
+| c:\Users\juand\Documents\RVCC\Spring_2025\CapstoneSpring2025\ReactProjects\website01\public\assets\images\right.svg   | XML            |         13 |          0 |          0 |         13 |
+| c:\Users\juand\Documents\RVCC\Spring_2025\CapstoneSpring2025\ReactProjects\website01\public\assets\images\search.svg  | XML            |         14 |          0 |          0 |         14 |
+| c:\Users\juand\Documents\RVCC\Spring_2025\CapstoneSpring2025\ReactProjects\website01\public\assets\images\watch.svg   | XML            |         13 |          0 |          0 |         13 |
+| c:\Users\juand\Documents\RVCC\Spring_2025\CapstoneSpring2025\ReactProjects\website01\public\assets\react.svg          | XML            |          1 |          0 |          0 |          1 |
+| c:\Users\juand\Documents\RVCC\Spring_2025\CapstoneSpring2025\ReactProjects\website01\public\models\vite.svg           | XML            |         14 |          0 |          0 |         14 |
+| c:\Users\juand\Documents\RVCC\Spring_2025\CapstoneSpring2025\ReactProjects\website01\src\App.jsx                      | JavaScript JSX |        -42 |          0 |         -5 |        -47 |
+| c:\Users\juand\Documents\RVCC\Spring_2025\CapstoneSpring2025\ReactProjects\website01\src\components\Footer.jsx        | JavaScript JSX |        -32 |         -9 |         -4 |        -45 |
+| c:\Users\juand\Documents\RVCC\Spring_2025\CapstoneSpring2025\ReactProjects\website01\src\components\Hero.jsx          | JavaScript JSX |        -58 |        -39 |        -10 |       -107 |
+| c:\Users\juand\Documents\RVCC\Spring_2025\CapstoneSpring2025\ReactProjects\website01\src\components\Highlights.jsx    | JavaScript JSX |        -22 |        -45 |         -6 |        -73 |
+| c:\Users\juand\Documents\RVCC\Spring_2025\CapstoneSpring2025\ReactProjects\website01\src\components\Navbar.jsx        | JavaScript JSX |        -45 |        -15 |         -6 |        -66 |
+| c:\Users\juand\Documents\RVCC\Spring_2025\CapstoneSpring2025\ReactProjects\website01\src\components\VideoCarousel.jsx | JavaScript JSX |       -187 |        -21 |        -25 |       -233 |
+| c:\Users\juand\Documents\RVCC\Spring_2025\CapstoneSpring2025\ReactProjects\website01\src\constants\index.js           | JavaScript     |        -80 |         -1 |         -6 |        -87 |
+| c:\Users\juand\Documents\RVCC\Spring_2025\CapstoneSpring2025\ReactProjects\website01\src\index.css                    | CSS            |       -143 |        -11 |        -34 |       -188 |
+| c:\Users\juand\Documents\RVCC\Spring_2025\CapstoneSpring2025\ReactProjects\website01\src\main.jsx                     | JavaScript JSX |        -12 |          0 |         -2 |        -14 |
+| c:\Users\juand\Documents\RVCC\Spring_2025\CapstoneSpring2025\ReactProjects\website01\src\pages\About.jsx              | JavaScript JSX |        -50 |          0 |         -2 |        -52 |
+| c:\Users\juand\Documents\RVCC\Spring_2025\CapstoneSpring2025\ReactProjects\website01\src\pages\Contact.jsx            | JavaScript JSX |       -105 |         -3 |         -8 |       -116 |
+| c:\Users\juand\Documents\RVCC\Spring_2025\CapstoneSpring2025\ReactProjects\website01\src\pages\JDProductionz.jsx      | JavaScript JSX |       -301 |        -22 |        -37 |       -360 |
+| c:\Users\juand\Documents\RVCC\Spring_2025\CapstoneSpring2025\ReactProjects\website01\src\pages\PFT.jsx                | JavaScript JSX |       -219 |        -16 |        -21 |       -256 |
+| c:\Users\juand\Documents\RVCC\Spring_2025\CapstoneSpring2025\ReactProjects\website01\src\pages\Support.jsx            | JavaScript JSX |       -104 |         -4 |         -6 |       -114 |
+| c:\Users\juand\Documents\RVCC\Spring_2025\CapstoneSpring2025\ReactProjects\website01\src\utils\index.js               | JavaScript     |        -56 |         -1 |        -10 |        -67 |
+| Total                                                                                                                 |                |      1,992 |       -187 |       -181 |      1,624 |
++-----------------------------------------------------------------------------------------------------------------------+----------------+------------+------------+------------+------------+

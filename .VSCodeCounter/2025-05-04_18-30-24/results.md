@@ -1,0 +1,25 @@
+# Summary
+
+Date : 2025-05-04 18:30:24
+
+Directory c:\\Users\\juand\\Documents\\RVCC\\Spring_2025\\CapstoneSpring2025\\ReactProjects\\website01\\public
+
+Total : 11 files,  3448 codes, 0 comments, 1 blanks, all 3449 lines
+
+Summary / [Details](details.md) / [Diff Summary](diff.md) / [Diff Details](diff-details.md)
+
+## Languages
+| language | files | code | comment | blank | total |
+| :--- | ---: | ---: | ---: | ---: | ---: |
+| XML | 11 | 3,448 | 0 | 1 | 3,449 |
+
+## Directories
+| path | files | code | comment | blank | total |
+| :--- | ---: | ---: | ---: | ---: | ---: |
+| . | 11 | 3,448 | 0 | 1 | 3,449 |
+| assets | 10 | 3,434 | 0 | 1 | 3,435 |
+| assets (Files) | 1 | 1 | 0 | 0 | 1 |
+| assets\\images | 9 | 3,433 | 0 | 1 | 3,434 |
+| models | 1 | 14 | 0 | 0 | 14 |
+
+Summary / [Details](details.md) / [Diff Summary](diff.md) / [Diff Details](diff-details.md)
